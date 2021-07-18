@@ -4,7 +4,7 @@
 #### Execute pip install -r requirements.txt
 
 # Command to encrypt
-#### `python3 enc_dec_video.py <video_to_encrypt>.mp4 <key_in_base_16> encrypt`
+#### `python enc_dec_video.py <video_to_encrypt>.mp4 <key_in_base_16> encrypt`
 
 # Command to play encrypted file
 #### `python tkmpvplayer.py <hex_key> <path_to_encrypted_file>`
